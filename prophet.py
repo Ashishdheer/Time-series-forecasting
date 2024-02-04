@@ -6,6 +6,7 @@ df
 
 type(df)
 
+
 df.info()
 
 df.isnull().sum()    # Searching for Missing Values
